@@ -40,7 +40,8 @@ Atualmente, estou focado em **projetos que unem performance, design e propósito
 ## 🧠 Stack Principal
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,java,mysql,git,github,powerbi,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,java,mysql,git,github,vscode" />
+  <img height="48" src="https://img.icons8.com/color/48/power-bi.png" alt="Power BI" title="Power BI"/>
 </div>
 
 ---
