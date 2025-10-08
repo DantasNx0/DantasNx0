@@ -1,70 +1,119 @@
-<h1 align="center">👋 Olá, eu sou o Paulo Eduardo!</h1>
+<!-- 
+README criado para destacar o perfil de Paulo Eduardo Barbosa Dantas
+Estilo: Clean, Profissional e Impactante
+-->
+
+<h1 align="center">🚀 Paulo Eduardo Barbosa Dantas</h1>
 
 <p align="center">
-  💻 Estudante de <strong>Engenharia de Software</strong> na <strong>Universidade Católica de Brasília</strong><br/>
-  🚀 Apaixonado por tecnologia, inovação e desenvolvimento de sistemas eficientes e escaláveis.<br/>
-  📚 Atualmente focado em <strong>Metodologias de Desenvolvimento de Sistemas (MDS)</strong> e nas principais tecnologias web.
+  <i>"Transformando lógica em soluções e código em propósito."</i>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/dantaspaulo20/">
+    <img src="https://img.shields.io/badge/-Paulo%20Eduardo%20Dantas-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:pauloeduardobr124@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/dantasnx0">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-### 🧠 Sobre mim
-Sou um entusiasta da tecnologia que acredita no poder da engenharia de software para transformar ideias em soluções reais.  
-Busco sempre evoluir — explorando novas linguagens, frameworks e metodologias ágeis que melhorem a qualidade e a performance dos sistemas que desenvolvo.  
+## 👨‍💻 Sobre mim
 
-💬 Áreas de interesse:
-- Desenvolvimento Web (Front e Back-end)
-- Metodologias Ágeis (Scrum, Kanban)
-- Análise e Modelagem de Sistemas
-- Ciência de Dados e Inteligência Artificial
+Sou um **desenvolvedor em formação** e estudante de **Engenharia de Software** na Universidade Católica de Brasília.  
+Acredito que a tecnologia é mais do que ferramentas — é uma ponte entre ideias e impacto real.  
+
+Com experiência em **análise de sistemas**, **Power BI**, e **desenvolvimento web full stack**, busco constantemente aprimorar meu código, meus processos e minha mentalidade.  
+Atualmente, estou focado em **projetos que unem performance, design e propósito**.
+
+🎯 **Missão:** Criar soluções que sejam simples, escaláveis e elegantes.  
+🌱 **Aprendendo:** React, Node.js, e técnicas avançadas de arquitetura de software.  
+⚡ **Curiosidade:** Já automatizei relatórios e dashboards em Power BI usados por órgãos públicos.  
 
 ---
 
-### ⚙️ Tecnologias que utilizo
+## 🧠 Stack Principal
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,java,mysql,c,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,java,mysql,git,github,powerbi,vscode" />
 </div>
 
 ---
 
-### 📊 Estatísticas do GitHub
+## 🛠️ Ferramentas e Competências
+
+| Categoria | Ferramentas |
+|------------|-------------|
+| **Frontend** | HTML5 • CSS3 • JavaScript • React.js |
+| **Backend** | Node.js • Express.js • Java |
+| **Banco de Dados** | MySQL • SQLite |
+| **Análise e BI** | Power BI • DAX • Excel Avançado |
+| **Metodologias** | Scrum • Kanban • MDS |
+| **Versionamento** | Git • GitHub Projects |
+
+---
+
+## 📈 Estatísticas do GitHub
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=dantasnx0&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dantasnx0&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dantasnx0&show_icons=true&theme=radical&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=dantasnx0&theme=radical&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dantasnx0&layout=compact&langs_count=7&theme=radical&hide_border=true" />
 </div>
 
 ---
 
-### 🌐 Conecte-se comigo
+## 🌍 Projetos Recentes
+
+🧩 **WAF4U** — Sistema de proteção contra ataques cibernéticos (DDoS, XSS e SQL Injection).  
+🔹 Foco em segurança web, compatibilidade e desempenho.
+
+📊 **Painel Power BI TCU** — Dashboard de processos sigilosos com relatórios dinâmicos.  
+🔹 Alta performance e visualização clara de métricas críticas.
+
+🧠 **Inglês em Foco (PWA)** — Plataforma de aprendizado de inglês com chat interativo.  
+🔹 Interface intuitiva, feedback rápido e experiência fluida.
+
+🚗 **AutoGestor** — Sistema web para controle de compra, reforma e venda de veículos.  
+🔹 Backend em Node.js + Frontend React.js + Banco SQLite.
+
+---
+
+## 💬 “Tech Mindset”
+
+> **Código limpo é mais do que estética — é comunicação entre desenvolvedores.**  
+> Busco criar soluções que não apenas funcionem, mas que **sejam compreendidas e evoluídas com facilidade**.
+
+---
+
+## 🤝 Conecte-se comigo
 
 <div align="center">
-  <a href="mailto:pauloeduardobr124@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
   <a href="https://www.linkedin.com/in/dantaspaulo20/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:pauloeduardobr124@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/paulin_dantas">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-DD2A7B?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://twitch.tv/dantasnx0">
-    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />
-  </a>
-  <a href="https://www.facebook.com/pauloeduardogcarter">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/>
   </a>
 </div>
 
 ---
 
-### 🧩 Um pouco mais sobre mim
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
 
-```yaml
-nome: Paulo Eduardo Barbosa Dantas
-idade: 21
-curso: Engenharia de Software - UCB
-atuação: Desenvolvimento de sistemas, análise de processos e visualização de dados (Power BI)
-interesses: Inovação | UX | Backend | AI
-soft_skills: Proatividade, Comunicação, Organização, Aprendizado Contínuo
+<p align="center">
+  <i>Feito com ☕, ❤️ e propósito.</i>
+</p>
