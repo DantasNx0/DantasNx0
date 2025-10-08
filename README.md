@@ -9,16 +9,6 @@ Estilo: Clean, Profissional e Impactante
   <i>"Transformando lógica em soluções e código em propósito."</i>
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/dantaspaulo20/">
-    <img src="https://img.shields.io/badge/-Paulo%20Eduardo%20Dantas-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/>
-  </a>
-  
-  <a href="https://github.com/dantasnx0">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-  </a>
-</p>
-
 ---
 
 ## 👨‍💻 Sobre mim
