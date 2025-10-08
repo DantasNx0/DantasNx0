@@ -68,21 +68,6 @@ Atualmente, estou focado em **projetos que unem performance, design e propósito
 
 ---
 
-## 🌍 Projetos Recentes
-
-🧩 **WAF4U** — Sistema de proteção contra ataques cibernéticos (DDoS, XSS e SQL Injection).  
-🔹 Foco em segurança web, compatibilidade e desempenho.
-
-📊 **Painel Power BI TCU** — Dashboard de processos sigilosos com relatórios dinâmicos.  
-🔹 Alta performance e visualização clara de métricas críticas.
-
-🧠 **Inglês em Foco (PWA)** — Plataforma de aprendizado de inglês com chat interativo.  
-🔹 Interface intuitiva, feedback rápido e experiência fluida.
-
-🚗 **AutoGestor** — Sistema web para controle de compra, reforma e venda de veículos.  
-🔹 Backend em Node.js + Frontend React.js + Banco SQLite.
-
----
 
 ## 💬 “Tech Mindset”
 
