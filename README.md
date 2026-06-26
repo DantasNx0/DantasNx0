@@ -13,7 +13,7 @@ Estilo: Clean, Profissional e Impactante
 
 ## 👨‍💻 Sobre mim
 
-Sou um **desenvolvedor em formação** e estudante de **Engenharia de Software** na Universidade Católica de Brasília.  
+Sou um **desenvolvedor e Analista de dados** Formado em **Engenharia de Software** na Universidade Católica de Brasília.  
 Acredito que a tecnologia é mais do que ferramentas — é uma ponte entre ideias e impacto real.  
 
 Com experiência em **análise de sistemas**, **Power BI**, e **desenvolvimento web full stack**, busco constantemente aprimorar meu código, meus processos e minha mentalidade.  
